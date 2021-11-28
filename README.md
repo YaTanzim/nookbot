@@ -1,0 +1,2 @@
+# nookbot
+ Discord 'nuke bot'
